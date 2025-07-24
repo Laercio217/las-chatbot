@@ -1,0 +1,7 @@
+{
+  "cargas": [
+    { "id": "001", "status": "Em trânsito", "motorista": "Carlos Souza", "entrega": "22/07/2025 18:00" },
+    { "id": "002", "status": "Aguardando coleta", "motorista": "Mariana Lima", "entrega": "23/07/2025 09:30" },
+    { "id": "003", "status": "Entregue", "motorista": "João Pedro", "entrega": "21/07/2025 15:45" }
+  ]
+}
